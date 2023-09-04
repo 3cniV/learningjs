@@ -1,9 +1,7 @@
 # learningjs
 Learning Js, prolly gonna be adding a few things here and there which may be helpful or not.
-# Testing Testing Testing
 
-# Adding something on variales for a start.
-
+# 1. Adding something on variables for a start.
 var fullname = "Vincent tobiloba";
 
 how to name variables
