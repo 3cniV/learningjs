@@ -4,25 +4,25 @@ Learning Js, prolly gonna be adding a few things here and there which may be hel
 
 # Adding something on variales for a start.
 
-+ var fullname = "Vincent tobiloba";
+var fullname = "Vincent tobiloba";
 
-+how to name variables
+how to name variables
 
-+fullName
-+full-name
-+full_name
-+FullName
+fullName
+full-name
+full_name
+FullName
 
-+var coursename = "React JS Bootcamp";
+var coursename = "React JS Bootcamp";
 
-+var isLoggedIn = false;
+var isLoggedIn = false;
 
-+var loggedCount = 34;
+var loggedCount = 34;
 
-+console.log(loggedCount);
-+console.log("loggedCount");
+console.log(loggedCount);
+console.log("loggedCount");
 
-+var paymentMode;
-+console.log(paymentMode)
+var paymentMode;
+console.log(paymentMode)
 
-+var if = 23;
+var if = 23;
